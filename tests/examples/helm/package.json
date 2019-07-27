@@ -1,0 +1,17 @@
+{
+  "name": "nodeserver",
+  "version": "0.1.0",
+  "dependencies": {
+    "@kulado/kulado": "dev",
+    "@types/js-yaml": "^3.11.2",
+    "js-yaml": "^3.12.0"
+  },
+  "devDependencies": {
+    "@types/node": "^9.3.0",
+    "typescript": "^3.0.0"
+  },
+  "peerDependencies": {
+    "@kulado/kubernetes": "latest"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,3 @@
+name: kubernetes
+description: A Kulado resource provider for kubernetes.
+language: python

@@ -1,0 +1,4 @@
+name: provider
+description: Use an explicit Kulado Kubernetes provider.
+runtime: nodejs
+

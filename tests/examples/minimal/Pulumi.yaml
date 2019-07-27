@@ -1,0 +1,4 @@
+name: minimal
+description: An empty Kulado Kubernetes test script.
+runtime: nodejs
+

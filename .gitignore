@@ -1,0 +1,7 @@
+/vendor/
+**/bin/
+**/node_modules/
+.kulado
+Kulado.*.yaml
+/pkg/gen/openapi-specs
+yarn.lock

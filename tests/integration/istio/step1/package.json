@@ -1,0 +1,15 @@
+{
+    "name": "test-ci-istio",
+    "devDependencies": {
+        "@types/node": "latest",
+        "typescript": "^3.0.0"
+    },
+    "dependencies": {
+        "@kulado/kulado": "dev",
+        "@kulado/random": "dev",
+        "@kulado/gcp": "dev"
+    },
+    "peerDependencies": {
+        "@kulado/kubernetes": "latest"
+    }
+}
